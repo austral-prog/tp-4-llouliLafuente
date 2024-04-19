@@ -23,5 +23,3 @@ def line():
 
     distancia = ((coeficienteX2 - coeficienteX1) **2 +(Y2 - Y1 ) ** 2) **(1/2)
     print("distancia entre ellos es: " + str(distancia))
-
-line()
